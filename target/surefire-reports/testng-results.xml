@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="62357" started-at="2021-08-10T18:39:29Z" finished-at="2021-08-10T18:40:31Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="62357" started-at="2021-08-10T18:39:29Z" finished-at="2021-08-10T18:40:31Z">
+      <class name="Ballogy.Framework.Gestures">
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:Ballogy.Framework.Gestures@23282c25]" name="killAllNodes" is-config="true" duration-ms="3034" started-at="2021-08-10T18:39:29Z" finished-at="2021-08-10T18:39:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method status="PASS" signature="Accessablilty()[pri:0, instance:Ballogy.Framework.Gestures@23282c25]" name="Accessablilty" duration-ms="30717" started-at="2021-08-10T18:39:32Z" finished-at="2021-08-10T18:40:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Accessablilty -->
+        <test-method status="PASS" signature="Gestures()[pri:0, instance:Ballogy.Framework.Gestures@23282c25]" name="Gestures" duration-ms="28555" started-at="2021-08-10T18:40:03Z" finished-at="2021-08-10T18:40:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gestures -->
+      </class> <!-- Ballogy.Framework.Gestures -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
