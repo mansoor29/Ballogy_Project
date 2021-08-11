@@ -46,6 +46,7 @@ public class Gestures extends Base
 	    AndroidDriver<AndroidElement> driver= capabilities("ApiDemosApp");		
 		Elements h= new Elements(driver);
 		Utilities u= new Utilities();
+              //coding
 		u.tap(h.accessability, driver);
 		 service.stop();
 		
